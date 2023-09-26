@@ -13,8 +13,10 @@ function toggleMode() {
   //alterar amanhã o alt e colocar a foto
 
   if(html.classList.contains('light')){
-    img.setAttribute('src', '????')
+    img.setAttribute('src', 'https://github.com/thalesradicchi.png')
+    img.setAttribute('alt', 'Foto de Thales Radicchi sorrindo, e camisa vermelha, barba e fundo azul.')
   }else {
     img.setAttribute('src', 'https://github.com/thalesradicchi.png')
+    img.setAttribute('alt', 'Foto de Thales Radicchi sorrindo, e camisa vermelha, barba e fundo azul.')
   }
 }
