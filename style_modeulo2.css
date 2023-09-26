@@ -1,0 +1,43 @@
+body{
+    background-color: grey;
+}
+
+body{
+    background-color: white;
+}
+
+#unico-1{
+    color: blue;
+}
+
+.unico-2{
+    color:green;
+}
+
+p{
+    color: red;
+}
+
+header{
+    border: 1px solid red;
+    margin: 0px;
+    padding: 60px;
+}
+
+
+.hd p{
+    border: 1px solid purple;
+    margin: 20px;
+    display: inline;
+}
+
+.hd h1{
+    border: 1px solid green;
+    height: 60px;
+    display: inline;
+}
+
+span{
+    border: 1px solid pink;
+    display: block;
+}
